@@ -106,10 +106,11 @@ b) **1 Trillion Events (~10 TB of data):**
 - It is also worth noting that the algorithm could be optimized further to improve its scalability. For example, the data could be pre-processed or filtered to remove any irrelevant events before performing the calculations(Our API is ready to do this), or the calculations could be optimized to be more efficient. Additionally, the use of distributed caching or in-memory storage techniques (Which we are using REDIS) could be considered to improve the performance of the algorithm.
 
 # Architecture
-img.png![image](https://user-images.githubusercontent.com/39834493/208930566-4dec41c7-5f80-46b9-bcfd-4616dcdf5afc.png)
-
 - **Design a workflow to move the user behaviour event data from the application to a backend and provide insights into the data pipelines that you foresee.**
+
   - We have two backend services. The first backend service is the API. The API is responsible for receiving the logs and saving them in Redis. The second backend service is the Spark job. The Spark job is responsible for processing the logs and saving the results in Redis. The API and the Spark job communicate with each other using Redis in real-time. So for every new logs detected by the API, the Spark job will process the logs and save the results in Redis. The API will then retrieve the results from Redis and return them to the user.
+ 
+![image](https://user-images.githubusercontent.com/39834493/208930566-4dec41c7-5f80-46b9-bcfd-4616dcdf5afc.png)
 
 - **Explain how the workflow would provide the data to the batch process in Part 1 Algorithm.**
   - The workflow would provide the data to the batch process in Part 1 Algorithm by saving the logs in Redis. The Spark job would then retrieve the logs from Redis and process them to generate the results.
