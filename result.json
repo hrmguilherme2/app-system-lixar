@@ -1,0 +1,990 @@
+[
+  {
+    "user_id": "758d34b523a434594ba2c5a466e46d026e3879fb62cbe6158b79d5d24a98710e",
+    "avg_time_on_flyer_per_user_hours": 0.17
+  },
+  {
+    "user_id": "b38f97880ccb69e8f89201eedbccc149a9ea914ca86111340a9b1d9de1788a01",
+    "avg_time_on_flyer_per_user_hours": 2.06
+  },
+  {
+    "user_id": "9cedfdc6be9dde4f8f9223a1543a4a340f4f1365f036a4c41748bf6bac6431c0",
+    "avg_time_on_flyer_per_user_hours": 1.62
+  },
+  {
+    "user_id": "1285ebbfb7e7105ca2b10afdc0c2912fddeb4111b9f1563fc81fb22168530720",
+    "avg_time_on_flyer_per_user_hours": 2.97
+  },
+  {
+    "user_id": "c9a8c63a889ec224af59a5200ac0da07a86be37e96038eb76d8955b9cc8e29d7",
+    "avg_time_on_flyer_per_user_hours": 0.5
+  },
+  {
+    "user_id": "af6a0ae46ebc0bae45fdf6aefa881102977504aa106f97325b1ec619d28e7e6b",
+    "avg_time_on_flyer_per_user_hours": 3.48
+  },
+  {
+    "user_id": "b68591d65f3efa3d4fa98ff24d5f97f0db058844bb6abc03c2912a156badf9e8",
+    "avg_time_on_flyer_per_user_hours": 0.11
+  },
+  {
+    "user_id": "f66b034f5f74310a77aa0ba7174bfb0820153f84b0e6eaab17955a59370d2107",
+    "avg_time_on_flyer_per_user_hours": 0.29
+  },
+  {
+    "user_id": "ff29ab0536a8d442063225d0bc1ee7d904beb1268c7baef0697efdfd12e5d4ca",
+    "avg_time_on_flyer_per_user_hours": 0.03
+  },
+  {
+    "user_id": "cfcc0ad83beb439f7f0b6d0bb95c51383f0c8b27a888c0ef53f9b0f8b4e605af",
+    "avg_time_on_flyer_per_user_hours": 0.0
+  },
+  {
+    "user_id": "88b69b0c65106aa342a5acfc726475726c2591ccb8867bc4a87071e1fc310d51",
+    "avg_time_on_flyer_per_user_hours": 8.39
+  },
+  {
+    "user_id": "c8c436d08fadc07e36ec2890254eef3340704c7ce6de2dbd1212a7b0006d0f17",
+    "avg_time_on_flyer_per_user_hours": 7.02
+  },
+  {
+    "user_id": "5d04d72d75cfd41acd0cf1b18c57cd5d4cb44217d869c02b5a74ed137b4de34c",
+    "avg_time_on_flyer_per_user_hours": 3.29
+  },
+  {
+    "user_id": "df4a24d3993e69e70bc793725fcc33eb1988d59b52806e3531cf00e2f7db5596",
+    "avg_time_on_flyer_per_user_hours": 1.32
+  },
+  {
+    "user_id": "edb9b60773e0fee19fc352ef3e68faf724eb492e0718e610694a7f0365f8b352",
+    "avg_time_on_flyer_per_user_hours": 0.28
+  },
+  {
+    "user_id": "26f10bb26320cb3e9338a9d1a9eb74339300e5e149233c9667a043789de8c66c",
+    "avg_time_on_flyer_per_user_hours": 7.69
+  },
+  {
+    "user_id": "0801e50a779364d971be9f009ca662eb4c424eb82006b4a94b9925ef5fcca0c2",
+    "avg_time_on_flyer_per_user_hours": 5.11
+  },
+  {
+    "user_id": "3d53a34d5144644cd17da535b8709bf534ee9f8c14ca3b75d7199b54a29315b1",
+    "avg_time_on_flyer_per_user_hours": 11.35
+  },
+  {
+    "user_id": "e1c3694b2b58532d7fd48283fdc8d6b6fd791397452fc45f9268af48015babd8",
+    "avg_time_on_flyer_per_user_hours": 0.06
+  },
+  {
+    "user_id": "9285f5ec865d96407bff403af1010a95c0c11f15b57c39d3a6b94e4115dbbf2b",
+    "avg_time_on_flyer_per_user_hours": 7.12
+  },
+  {
+    "user_id": "cba9ceac149b0f043c25703a3eec0e1a53462d08dc741c7dd0f3a7cfc721d7b9",
+    "avg_time_on_flyer_per_user_hours": 0.21
+  },
+  {
+    "user_id": "91b9e245fcd057b1c691fc276193656e33b16b376431985ab72e54f9c4fb1c68",
+    "avg_time_on_flyer_per_user_hours": 0.43
+  },
+  {
+    "user_id": "674bc0f5624c212753cc71f5d873a701bac43768eb914b7356714f173d9cdc0e",
+    "avg_time_on_flyer_per_user_hours": 0.7
+  },
+  {
+    "user_id": "44e40d91f3f8b39f183a68454855dfca27a77536ccf42152af17eaf9dfb9285e",
+    "avg_time_on_flyer_per_user_hours": 0.67
+  },
+  {
+    "user_id": "3020a9c34426a55d9ffe11059a92d163d089ae6ddf4a80bd3e8a0906f1ec8ff4",
+    "avg_time_on_flyer_per_user_hours": 4.18
+  },
+  {
+    "user_id": "f2b49e6bc526ddd4778f4b68e0bc5eba014b5c4190bfe3417d535b1ac1f82f2f",
+    "avg_time_on_flyer_per_user_hours": 5.0
+  },
+  {
+    "user_id": "ec0c0ca9c96ce201487610994b8b9804c0328d8e0a5319af35313eee12d9cd6d",
+    "avg_time_on_flyer_per_user_hours": 0.01
+  },
+  {
+    "user_id": "227643fe15210117a4ef955ca8cd25b3e16dd99d2498b8c366a57e8ac4cea54d",
+    "avg_time_on_flyer_per_user_hours": 0.71
+  },
+  {
+    "user_id": "932198ce05357d10a6f9eefadc6d554e044fec8ed8eb1c50312ca8a83b5e58e2",
+    "avg_time_on_flyer_per_user_hours": 5.03
+  },
+  {
+    "user_id": "4f92b318a43543445f21ffd5621723d5e3dc3fe7c05da05f9e082cf1b274789a",
+    "avg_time_on_flyer_per_user_hours": 3.26
+  },
+  {
+    "user_id": "978d41edfd295d25004b5a975ac2949a43552b07df620da00a974433e2fd0f68",
+    "avg_time_on_flyer_per_user_hours": 0.18
+  },
+  {
+    "user_id": "347cd12461cef9119357ec0c290d5f3303a58397540527e70c4e114d65dadff8",
+    "avg_time_on_flyer_per_user_hours": 1.33
+  },
+  {
+    "user_id": "3d1350aae25263e12dc93867c72cd5021eff706b3a3f624185977d99d62fef23",
+    "avg_time_on_flyer_per_user_hours": 5.18
+  },
+  {
+    "user_id": "24c0f98368d52f3a8b250dde9601d77c92418ceae7f07151992648b34367f787",
+    "avg_time_on_flyer_per_user_hours": 1.9
+  },
+  {
+    "user_id": "9c7cf978399a0f3d6c66276424072238e6065466719e7e626b507444fdddd892",
+    "avg_time_on_flyer_per_user_hours": 3.28
+  },
+  {
+    "user_id": "76446247b0285670c669d9b145ac54bee3c85a0f7fc65307c80cc87810b0f37f",
+    "avg_time_on_flyer_per_user_hours": 1.88
+  },
+  {
+    "user_id": "856a9bd439c1c8a827bdb77ce14db2603970e2755501fa3400f014a2d876a09a",
+    "avg_time_on_flyer_per_user_hours": 1.55
+  },
+  {
+    "user_id": "77fa675a662417b3ee86ab5a92ceb45913e280cc8515dd1ea09e9cee73447802",
+    "avg_time_on_flyer_per_user_hours": 4.89
+  },
+  {
+    "user_id": "b427cbfea69c61ea588f5be4b0bd5aeb176281192dcc5b3a9232b08c1e31980c",
+    "avg_time_on_flyer_per_user_hours": 0.3
+  },
+  {
+    "user_id": "23c1b0615434a7120395a222de8b3345c9d9946ac6b75b644b0599969812fc61",
+    "avg_time_on_flyer_per_user_hours": 2.91
+  },
+  {
+    "user_id": "72aa252746dc7a03fec530992789ad3b0d38c74d111105735579472921681bca",
+    "avg_time_on_flyer_per_user_hours": 0.35
+  },
+  {
+    "user_id": "80ecb0e4dcf10097fbb917409acb1c57cb973211facb9c8a21f99a01f0dbcd79",
+    "avg_time_on_flyer_per_user_hours": 6.64
+  },
+  {
+    "user_id": "7e7b0b3a1f30d54e673528ba15f2ecd6d4a9dedcd7304e629abe8ab4dfa553e5",
+    "avg_time_on_flyer_per_user_hours": 0.59
+  },
+  {
+    "user_id": "5dbe262e422db3727863963a82a835cca8e36183280ad2a8b7cdde2175787cc9",
+    "avg_time_on_flyer_per_user_hours": 0.01
+  },
+  {
+    "user_id": "9ad68718f34f55eb4fd1d33a5dd29a0dbe70e2687aa363f4c03d5bf5687af2ea",
+    "avg_time_on_flyer_per_user_hours": 0.37
+  },
+  {
+    "user_id": "31006db5badb3758207f96a324c0f3fbd90e34a47595eb08c4bfa8de075c2e8f",
+    "avg_time_on_flyer_per_user_hours": 4.94
+  },
+  {
+    "user_id": "6de78a59ac6da67e3a8900785f18305ee6a3a33d91da6bfee9a7840fb68b8269",
+    "avg_time_on_flyer_per_user_hours": 1.19
+  },
+  {
+    "user_id": "f7e31c42c16f593fd1ab487e73a2da05da53dbf7be5ec5a7cb3dad078c04c539",
+    "avg_time_on_flyer_per_user_hours": 3.04
+  },
+  {
+    "user_id": "92e0edd3590a2b45c6f6fc6a79b78d2a6250eea6a7edb61364842fe9195e185c",
+    "avg_time_on_flyer_per_user_hours": 1.3
+  },
+  {
+    "user_id": "d848bf6e8c65e9c2e468510c93fedf754f0f335425dc2fac8a8d9b867d93fd34",
+    "avg_time_on_flyer_per_user_hours": 4.33
+  },
+  {
+    "user_id": "7847310bd6bb41ab09ad27389b36511071bca3c4a9d7f33b5cf2bf013cbc1d48",
+    "avg_time_on_flyer_per_user_hours": 0.06
+  },
+  {
+    "user_id": "5756ec5a6eb9fccf567112b09a139c5a827333632646ede1d6a67e7c81015f8c",
+    "avg_time_on_flyer_per_user_hours": 2.47
+  },
+  {
+    "user_id": "dd6a945c008559e809a6341dec798693557ebf971486de82c1f37bb5aacf8a80",
+    "avg_time_on_flyer_per_user_hours": 3.05
+  },
+  {
+    "user_id": "875a7e34ae914d7303dbb02cd7ee0d5567c2d9cb78ddfe16dac79502b8743a2b",
+    "avg_time_on_flyer_per_user_hours": 2.69
+  },
+  {
+    "user_id": "a2ef812c9bebc7385ddbba162c997d0f483eb4400795a1c05a7854f1c0126af3",
+    "avg_time_on_flyer_per_user_hours": 0.15
+  },
+  {
+    "user_id": "94cc321dcdffd644f111cf17c5c0f2366b17ec2cd1886fc14aebfef59e218c33",
+    "avg_time_on_flyer_per_user_hours": 7.53
+  },
+  {
+    "user_id": "fa4abe751163f363847d3d59e34d65b58ccb00808b3b37e22fa3e9b430162355",
+    "avg_time_on_flyer_per_user_hours": 3.75
+  },
+  {
+    "user_id": "228b6edeb725750df24412d509aafac9d71cbef75380dd03ec12f113a9ef1d4c",
+    "avg_time_on_flyer_per_user_hours": 3.43
+  },
+  {
+    "user_id": "44b4aadcd657a667a09192d01bcc3fb733ffa96d93f9bd44b2e0753b2f60b19e",
+    "avg_time_on_flyer_per_user_hours": 5.3
+  },
+  {
+    "user_id": "056ccc0e6e0230628e25e89260b7817794461e5eaac8a6b56b48d34f0f59183f",
+    "avg_time_on_flyer_per_user_hours": 6.25
+  },
+  {
+    "user_id": "419ece5d4e36ed2c454ea0e38cc7e3ed2b255782823b2226d20ec73ba5d1c61b",
+    "avg_time_on_flyer_per_user_hours": 1.81
+  },
+  {
+    "user_id": "6a5b9fb789bc4ef0ce384c36a91873b6c3cf8006cbb44e9e54adfc0566e30603",
+    "avg_time_on_flyer_per_user_hours": 9.73
+  },
+  {
+    "user_id": "8e5c832c59e832ff965b03a80e1fb1acb6f7a865884fbbef6f1a0311b477e893",
+    "avg_time_on_flyer_per_user_hours": 6.99
+  },
+  {
+    "user_id": "e24b9ffe386ff48a2a4df990298683fd80b3eaa877c9bf7a22fe29be4e5eb742",
+    "avg_time_on_flyer_per_user_hours": 5.08
+  },
+  {
+    "user_id": "abda5f8aba6ce7020e91cfeadcaab224cb29135f5b7cd8fbf7d4f41653a339b7",
+    "avg_time_on_flyer_per_user_hours": 0.6
+  },
+  {
+    "user_id": "0f8d78a7e49a9984b414f0174b9ac1603790dc32eb6969ed81938b76aebdccb8",
+    "avg_time_on_flyer_per_user_hours": 0.37
+  },
+  {
+    "user_id": "7c259604073fddd8df155878fafcca4b0696a36fc4d309226cfab5d748bf9a38",
+    "avg_time_on_flyer_per_user_hours": 0.09
+  },
+  {
+    "user_id": "71e01a216fd6d973c82dbd0023733adfa82887a5193d1a6329af176cb2626626",
+    "avg_time_on_flyer_per_user_hours": 1.97
+  },
+  {
+    "user_id": "efbe143287afb4b74c8f20161d28dfa9eb35d22686cf31a40c03dbf9e61aa57a",
+    "avg_time_on_flyer_per_user_hours": 5.02
+  },
+  {
+    "user_id": "18d471674d026114ca7d83353253f9dfc0a343341f8486a18bbf1e15070b7417",
+    "avg_time_on_flyer_per_user_hours": 0.09
+  },
+  {
+    "user_id": "7b8f402162b5d8012c075cade7c331dc7ceccafc93de5a03bc1c272ef55477e6",
+    "avg_time_on_flyer_per_user_hours": 8.71
+  },
+  {
+    "user_id": "620107fa88c4888f3e55660bd3e8e2bcdd85969000a9e54253a548e5739dc533",
+    "avg_time_on_flyer_per_user_hours": 3.31
+  },
+  {
+    "user_id": "e0427cbf74b6102d030dabc8ced68886f357d16640ba95472b4e459d288f0986",
+    "avg_time_on_flyer_per_user_hours": 0.0
+  },
+  {
+    "user_id": "17ebc74b419886db6670be362926f02ff4c7fcec916a015b97ccfdae9d7d03ab",
+    "avg_time_on_flyer_per_user_hours": 0.29
+  },
+  {
+    "user_id": "06ef3f026f18a43ecd24cfe8e677d8bab243cd2738e66fa214d0af0c3a25ea12",
+    "avg_time_on_flyer_per_user_hours": 2.01
+  },
+  {
+    "user_id": "b4d44de7d6beb0fed30fa78b19e75cbace5509b4cc1d9ee7dbc3835776bb358e",
+    "avg_time_on_flyer_per_user_hours": 1.03
+  },
+  {
+    "user_id": "e5089c58fbde325c2cde5aedf4f2196085d066419ad44ad451a6aa7ae363f2f5",
+    "avg_time_on_flyer_per_user_hours": 6.76
+  },
+  {
+    "user_id": "943679465cbfcae1c7e706d33e3e5750c5e7912ed0ab3e1fa13677562f69a0a6",
+    "avg_time_on_flyer_per_user_hours": 2.98
+  },
+  {
+    "user_id": "779b61f7b7d93b0a3b783c3539d0c0fa51e5f300f8882dc38d2f11c8db8f1953",
+    "avg_time_on_flyer_per_user_hours": 2.53
+  },
+  {
+    "user_id": "de44c77fbf19f85aa6048e74ad0997c4fa2bc13882328d9068b792cf68e8f3fb",
+    "avg_time_on_flyer_per_user_hours": 0.03
+  },
+  {
+    "user_id": "dfb9ea65a94651f6e307f7c3a95b4feafe3dd6349672e064d93645d6ba93ce20",
+    "avg_time_on_flyer_per_user_hours": 2.04
+  },
+  {
+    "user_id": "ea2fdcb28cffa4012f61be9859ed3500578f0f0e643ba63ce089b46d292d1d7c",
+    "avg_time_on_flyer_per_user_hours": 11.62
+  },
+  {
+    "user_id": "9e3d43c134a89b674ebb83a98f60bdaefd21b9c7d1b3df86320bdfbadd2cb42c",
+    "avg_time_on_flyer_per_user_hours": 0.02
+  },
+  {
+    "user_id": "e013b3be3b0c66fb17b36f7e4aab37b20267ce91fc616e55a09505d816dbc8f6",
+    "avg_time_on_flyer_per_user_hours": 2.6
+  },
+  {
+    "user_id": "97ccd8a52c84009c410174c229b2a7d361e979d9e92d58b0f80b4cbfc249ee9c",
+    "avg_time_on_flyer_per_user_hours": 0.12
+  },
+  {
+    "user_id": "05a11ac766fed1421a55fb3bc5505b45ae1474762848775cc704044224ee73e2",
+    "avg_time_on_flyer_per_user_hours": 0.03
+  },
+  {
+    "user_id": "a44d807bfa2973d5a1f291d3ab827082e579a91c8cf7ddfc1bf41dd773b52a00",
+    "avg_time_on_flyer_per_user_hours": 0.28
+  },
+  {
+    "user_id": "1ef58abe3536abec5e4a11ecabf53f6d0b18732dcbc3a7263b139bca66668942",
+    "avg_time_on_flyer_per_user_hours": 3.42
+  },
+  {
+    "user_id": "0c2226141c1a30d0daf9a11c66949ab2a95df160bfa067d210f2edb4f0af953b",
+    "avg_time_on_flyer_per_user_hours": 3.73
+  },
+  {
+    "user_id": "30d198be7ca59ba02d109af0dd41f81414b4c941d0afee7a3c10c605ac30fbbb",
+    "avg_time_on_flyer_per_user_hours": 0.26
+  },
+  {
+    "user_id": "114efc20b2374a8e699850035079d473c3aebefbb6ef2820b4989be7870f83d2",
+    "avg_time_on_flyer_per_user_hours": 6.24
+  },
+  {
+    "user_id": "4268cc89bf2ad8bddc72bb71f43f6cbc3f57f110f930d3b4c0dbb60efda279f2",
+    "avg_time_on_flyer_per_user_hours": 0.06
+  },
+  {
+    "user_id": "b9aebb6a60aef203c8c8f13471a87de1e43b659a0b811561f9545ec464db9e5c",
+    "avg_time_on_flyer_per_user_hours": 1.55
+  },
+  {
+    "user_id": "7805405e7a1fb5dc2b231e3c4b204a46615e0ce7b603de5883dd685a0aae5062",
+    "avg_time_on_flyer_per_user_hours": 4.28
+  },
+  {
+    "user_id": "d5c57062c323a349d9874af0c921a531f43ca9a83318090d840365c79735432e",
+    "avg_time_on_flyer_per_user_hours": 2.11
+  },
+  {
+    "user_id": "0307f16bb87891bef7a537ebb04b24ba9ed4514cf4e7ef653cca8fddea8bbb8f",
+    "avg_time_on_flyer_per_user_hours": 4.82
+  },
+  {
+    "user_id": "05e48279b0fb7628505ff96c6d31de2b040bc16bafabc2fef11c4c8eb0f4eb4b",
+    "avg_time_on_flyer_per_user_hours": 0.09
+  },
+  {
+    "user_id": "9830c10249b449e59d8eddcb960914b0927be8785038cd24354733c761944ab3",
+    "avg_time_on_flyer_per_user_hours": 10.88
+  },
+  {
+    "user_id": "47ca5d8a6fac3497e17977e3b4fcefb8c7a8638d29e27a975f194e02c46326c8",
+    "avg_time_on_flyer_per_user_hours": 1.19
+  },
+  {
+    "user_id": "d452a27cf5d924ee3409a6ad3a294f5eb74fdc1d49fffd61ca3f82d89c19ef9c",
+    "avg_time_on_flyer_per_user_hours": 4.77
+  },
+  {
+    "user_id": "8e709925401a196801219b750f8709242e8cb83b8cc2b3b72c08ef49a9f04a6c",
+    "avg_time_on_flyer_per_user_hours": 10.78
+  },
+  {
+    "user_id": "192203fbb8ca65221c341775150ec7be3c3e72c35f299b6d32055a09b224bcc0",
+    "avg_time_on_flyer_per_user_hours": 0.07
+  },
+  {
+    "user_id": "c62ca0b937b891fb6be83597872828e66ae030d6c7b7b7dbb00c7d8ec6ba6bb1",
+    "avg_time_on_flyer_per_user_hours": 9.59
+  },
+  {
+    "user_id": "2dc9e0cfcc61a5711fee504b232e7defb6535668014ff5a37002e9a1dc1942e5",
+    "avg_time_on_flyer_per_user_hours": 0.53
+  },
+  {
+    "user_id": "a82508753ca5ebd50edc47375f07aaf6cb568bece76f85d032ff704d372aabf9",
+    "avg_time_on_flyer_per_user_hours": 0.04
+  },
+  {
+    "user_id": "512d6fb7ccfd3ea7516e71d85be287d431edd2a3c3c1ae187c7852900b188d9a",
+    "avg_time_on_flyer_per_user_hours": 12.43
+  },
+  {
+    "user_id": "8f6dd2335b1c4a451ff21734e13a0acd0f60bc7827095e22287c39159a0c54e1",
+    "avg_time_on_flyer_per_user_hours": 0.8
+  },
+  {
+    "user_id": "3bcb1d4af7d50ef454ecb24f709656ad4590d9a959b9d80bf836d13f3228bc8e",
+    "avg_time_on_flyer_per_user_hours": 0.07
+  },
+  {
+    "user_id": "4fac84a0d51c1bb6de47e19328159993ab3377a93b577160b20e34ec6f97b8a6",
+    "avg_time_on_flyer_per_user_hours": 2.64
+  },
+  {
+    "user_id": "a18a48d85589e2b612c067a2583354e8ead6fdcc5ab1d923d916a65059c4b3bd",
+    "avg_time_on_flyer_per_user_hours": 10.51
+  },
+  {
+    "user_id": "deb5d2ab528f042676588c6dca31919dd28e0949711414911790607a88796a4a",
+    "avg_time_on_flyer_per_user_hours": 3.48
+  },
+  {
+    "user_id": "38d82cac49755fff51799cab26cf91ed7991fe276fc7750ff72f0bef848e4f13",
+    "avg_time_on_flyer_per_user_hours": 0.43
+  },
+  {
+    "user_id": "4e0521677630b9df7d69717098024419179910e1fff66d24a1affbc084b0c91f",
+    "avg_time_on_flyer_per_user_hours": 2.71
+  },
+  {
+    "user_id": "c4b0af12d09c81ec4f04f5d5f96a1629749f1b2171a57b242220512d0d263b43",
+    "avg_time_on_flyer_per_user_hours": 3.45
+  },
+  {
+    "user_id": "e00b68ccccf55e20c81b9dd1a8e54da62e6e53683d1c433c119a9542992d2e00",
+    "avg_time_on_flyer_per_user_hours": 2.57
+  },
+  {
+    "user_id": "baec1c6427d46b423df4953129c000d51d85b12d7477a13ae5a0b9674726c57d",
+    "avg_time_on_flyer_per_user_hours": 8.76
+  },
+  {
+    "user_id": "13b968027c223421411987b5e9343c06bd21986e4d519d2d41ceee33d7f0cb01",
+    "avg_time_on_flyer_per_user_hours": 6.87
+  },
+  {
+    "user_id": "523e314c60326645ce2fe6c7fe615bd1abeaf2aea17b26d5965c9e6350481779",
+    "avg_time_on_flyer_per_user_hours": 0.86
+  },
+  {
+    "user_id": "8bd6bf3333ca32681ed25153be5af0a85459d3c7eab8c7b8d6807e8941f52da5",
+    "avg_time_on_flyer_per_user_hours": 5.92
+  },
+  {
+    "user_id": "1514486d447afcd39d3a791d90acb6f53820d7328e91fcabdd24cc0c193acaf6",
+    "avg_time_on_flyer_per_user_hours": 0.07
+  },
+  {
+    "user_id": "e84e0bc3997637e773a13900a94895e2e15a3726e4949adc3c6133ecf04cf648",
+    "avg_time_on_flyer_per_user_hours": 10.57
+  },
+  {
+    "user_id": "d9dc0d4f8a898424d6f3063f52ffb5bbfe5d873b8166f4df532e9a7262f34638",
+    "avg_time_on_flyer_per_user_hours": 1.63
+  },
+  {
+    "user_id": "ff7a676339f62ad51b0ae5c76a4d7623a157a13cf0c2f7bf3212f0bd462c43b9",
+    "avg_time_on_flyer_per_user_hours": 0.52
+  },
+  {
+    "user_id": "0dc59733b89e1a47cef2c3a3d56ffb3e28fdcbb2b2e3fe89af746901e494f34d",
+    "avg_time_on_flyer_per_user_hours": 3.63
+  },
+  {
+    "user_id": "0cdc3cd22bb3acce682b45f7be0fc158a7fa65851207ea3ac8cb65d2330fcb31",
+    "avg_time_on_flyer_per_user_hours": 7.77
+  },
+  {
+    "user_id": "93ec9e0880ad0c7d92935e0f03d1ad7ff2da58beab0f6c486daeed836e2acb50",
+    "avg_time_on_flyer_per_user_hours": 0.73
+  },
+  {
+    "user_id": "d74d133f70c5d1d3453407e7a9f66962a3b3d1ae76a37ccdfca8a33a86d97719",
+    "avg_time_on_flyer_per_user_hours": 0.44
+  },
+  {
+    "user_id": "b2086824aff95faac63c04342026b082de32b91179ee48c4b71bd2ebb425ee58",
+    "avg_time_on_flyer_per_user_hours": 0.69
+  },
+  {
+    "user_id": "6a6b2db25645608db441215988e020ff02d1233fe3ab02e47a1fe139fb0435e6",
+    "avg_time_on_flyer_per_user_hours": 7.16
+  },
+  {
+    "user_id": "da62e7068b1ee9f8a2c738e22e1d79c33780f5c7a8dd7abe9834d19fc9dc51da",
+    "avg_time_on_flyer_per_user_hours": 0.4
+  },
+  {
+    "user_id": "64b18a81b1fe82eaf7de79564fbebd5fd90b76b9a7f4054dbfce6fee768e3c92",
+    "avg_time_on_flyer_per_user_hours": 17.01
+  },
+  {
+    "user_id": "aed8e43934a437172f79d00c61f032336dadad271e454041561977a57b2c3dc8",
+    "avg_time_on_flyer_per_user_hours": 7.64
+  },
+  {
+    "user_id": "ea5c068664e51d121d1305e6c94dc0721902be83d3fc530892c66a012c9cbf94",
+    "avg_time_on_flyer_per_user_hours": 0.0
+  },
+  {
+    "user_id": "db309487603bf1d969eeb16031dd81adf0df28f93903ad297921795760e0e3fa",
+    "avg_time_on_flyer_per_user_hours": 4.88
+  },
+  {
+    "user_id": "bb7e5e86c4818c34999ba46da37da66f6ab42a047e49059e8e2294701c9b4c45",
+    "avg_time_on_flyer_per_user_hours": 0.03
+  },
+  {
+    "user_id": "391a7e5380d412024d5dcb4620f6d7f80f5c63dd450852b70d3ec032a4de0e97",
+    "avg_time_on_flyer_per_user_hours": 1.97
+  },
+  {
+    "user_id": "a557fa0c97f23cf7c8cec668828cc43bab2ef33604fc59c1d80db09dd2509e40",
+    "avg_time_on_flyer_per_user_hours": 0.09
+  },
+  {
+    "user_id": "221b50396e1f4523265ee65e09614f23e71f7d24018521656fc05834c6a6966b",
+    "avg_time_on_flyer_per_user_hours": 9.86
+  },
+  {
+    "user_id": "3c7414ff7496f326aa578e9d05a19d5a09969a03c2cb25621f09e0247e1c3219",
+    "avg_time_on_flyer_per_user_hours": 4.64
+  },
+  {
+    "user_id": "3dfefb729dd4810d2ea70bce2447a80a09ec92b7bf874b24947a16c8f4619033",
+    "avg_time_on_flyer_per_user_hours": 0.3
+  },
+  {
+    "user_id": "5ba1c5c41fbd20a6035cb1dbe873a55265f20846ad6c7278d459a5850ad0a8d1",
+    "avg_time_on_flyer_per_user_hours": 4.33
+  },
+  {
+    "user_id": "0bfffd3c9267dc2d585fb49a490e1ca00055845791275cae590f8c23c39ed9d7",
+    "avg_time_on_flyer_per_user_hours": 4.17
+  },
+  {
+    "user_id": "3dd12dbee732573ab09e5d9343b5ed618953ba76ef3fe0e4f4c1cc2cecac05f5",
+    "avg_time_on_flyer_per_user_hours": 4.22
+  },
+  {
+    "user_id": "717b50e3bbeaf22eb4485eeb60df37f461b5603426153dac8f20d67151df6a0f",
+    "avg_time_on_flyer_per_user_hours": 0.77
+  },
+  {
+    "user_id": "e0818c9a808dc2cd78a2aaca497bb70dcce1aabca250c69594a2db33e8fe352b",
+    "avg_time_on_flyer_per_user_hours": 0.11
+  },
+  {
+    "user_id": "312a85154eb5a92d40240b13fa4fdfdd2aea5a822f05ffdc0b8f8aff3f24fa5b",
+    "avg_time_on_flyer_per_user_hours": 0.11
+  },
+  {
+    "user_id": "1ffa3d3385797a665d5c5c37bb51eb1b444085258c9e0bab613c8bd49ce65f22",
+    "avg_time_on_flyer_per_user_hours": 4.59
+  },
+  {
+    "user_id": "af9666dbc9f97b864c5ef3c9e12f3a377f5cc2fa173687b6d764d108a93d46a9",
+    "avg_time_on_flyer_per_user_hours": 3.07
+  },
+  {
+    "user_id": "890229a3799b1493249b8f96038c707986323413b6c32b2c569ee6284a87b234",
+    "avg_time_on_flyer_per_user_hours": 1.2
+  },
+  {
+    "user_id": "09cf7d157aa098587a875acc07a5fda0f663fd9e1f7440bc6ea737de13c50e94",
+    "avg_time_on_flyer_per_user_hours": 2.45
+  },
+  {
+    "user_id": "3d702d209609ae48c4fbb21dc906ee36720a386a24b7a9719797ac0c6e4ff371",
+    "avg_time_on_flyer_per_user_hours": 1.99
+  },
+  {
+    "user_id": "06da7232b2161df26fef681f5363f31700aac0c077f2b83b868bce647372b83b",
+    "avg_time_on_flyer_per_user_hours": 0.04
+  },
+  {
+    "user_id": "c53d37a31d35f10ee86aba8596092c70a30528824d0785cfce4c89147f6952fc",
+    "avg_time_on_flyer_per_user_hours": 0.09
+  },
+  {
+    "user_id": "8d08781fb014efd11b0da50ca990b4f607bb53ad11cfac2daab835f4401e37b8",
+    "avg_time_on_flyer_per_user_hours": 1.84
+  },
+  {
+    "user_id": "6b9d780ce8a92c85a28b2c3f0d9186b9f9e48bf69aa434747dd6bc9cc89a752c",
+    "avg_time_on_flyer_per_user_hours": 6.54
+  },
+  {
+    "user_id": "765bc4f79d9be884d88a99a736e4878739fe2c037bb75a7d408c54c40c6fd5da",
+    "avg_time_on_flyer_per_user_hours": 2.43
+  },
+  {
+    "user_id": "27ffc24f0dde2a017281ec364c7fca9015392025acd44c57e7148b9c4370fc4e",
+    "avg_time_on_flyer_per_user_hours": 6.01
+  },
+  {
+    "user_id": "d4ab3f0af6b6bf0ae0348ee94818ce171edd998264b4d4a16f41bbaf9ba1dce8",
+    "avg_time_on_flyer_per_user_hours": 1.02
+  },
+  {
+    "user_id": "491d3a5cb0f447f310d97d365dfd49cc7a3b247c481ef59016319155ca79aaaf",
+    "avg_time_on_flyer_per_user_hours": 4.29
+  },
+  {
+    "user_id": "a82552c6d0c4a4fa750ab85cf15a17837a84c969bc0e248407637e82295819db",
+    "avg_time_on_flyer_per_user_hours": 1.08
+  },
+  {
+    "user_id": "f98a74045b0c29299e0bf5c9177b9d0194d4d6df76b9007e924ff582570be833",
+    "avg_time_on_flyer_per_user_hours": 6.28
+  },
+  {
+    "user_id": "e4cb53a3b5eff6a491b507c9aca472b091dd2f446bcf8727c085669eab6f5100",
+    "avg_time_on_flyer_per_user_hours": 0.52
+  },
+  {
+    "user_id": "fdb40482b6001a3bfb1e6b6e71e338d6b9d533cb4d947e4a2818328bdc4930f0",
+    "avg_time_on_flyer_per_user_hours": 3.21
+  },
+  {
+    "user_id": "88499b4237adff7f76e0cc843c9f806ccb7c5b09933c6b41ecd1eced7905b722",
+    "avg_time_on_flyer_per_user_hours": 0.56
+  },
+  {
+    "user_id": "e6e91b5352ef09448480257d51be5d51054c93d0f34a25e5d7370083e338d83f",
+    "avg_time_on_flyer_per_user_hours": 4.77
+  },
+  {
+    "user_id": "d377749451561792ecaaaa85b9e9b9f3243f8ddfe5d7bd539765af367432328c",
+    "avg_time_on_flyer_per_user_hours": 5.73
+  },
+  {
+    "user_id": "b7559388935d5d8d5642e3eb7d1bc060c8e42947809531f5aa23e27cc0e1f898",
+    "avg_time_on_flyer_per_user_hours": 0.01
+  },
+  {
+    "user_id": "f2446a6c083f00a771a2bbeda2fadc7f0be5f4ea5d1b5dc45606071a428db45f",
+    "avg_time_on_flyer_per_user_hours": 0.01
+  },
+  {
+    "user_id": "b68d57bbf7c0255e4a867d5b51e23176f40f8e0b3278d2a1a4bbd19f3abad0cb",
+    "avg_time_on_flyer_per_user_hours": 0.18
+  },
+  {
+    "user_id": "97f286b10ce9d0c7c1b5d7058f13b80da24d6c19d0c8f7a56bb747828cd5fb2b",
+    "avg_time_on_flyer_per_user_hours": 0.53
+  },
+  {
+    "user_id": "dcc9e05d3823a6df98368ad74c26171a19a1018901c526033897af9fb772219f",
+    "avg_time_on_flyer_per_user_hours": 0.04
+  },
+  {
+    "user_id": "835c8f106626b56c6cb89bcedbe3ec06e319d9a97534cb6c831005cda8b6362f",
+    "avg_time_on_flyer_per_user_hours": 0.75
+  },
+  {
+    "user_id": "67bd2c9a0a10c07366b6a8d74d3be5bd2c321f97c352a85ab7d34123da7ba2d2",
+    "avg_time_on_flyer_per_user_hours": 5.74
+  },
+  {
+    "user_id": "381b4683115d9722150ed75141b2fb887042744fc017368e51fcb3d90c0d589c",
+    "avg_time_on_flyer_per_user_hours": 5.94
+  },
+  {
+    "user_id": "e1f709b7d3dd8430320c86f241bd2afab860be29ad90b5cf7793bbec3e9869f5",
+    "avg_time_on_flyer_per_user_hours": 4.9
+  },
+  {
+    "user_id": "898d4d2f9fda029bf37b85850824f21d6204d3d3b8ab5b04dcc0d002f64c5725",
+    "avg_time_on_flyer_per_user_hours": 2.08
+  },
+  {
+    "user_id": "ba53a61a7c8f9544568cad815a94eb4cddd9cb84e1e940202070a0b9fc4c82d2",
+    "avg_time_on_flyer_per_user_hours": 0.25
+  },
+  {
+    "user_id": "79a3bfc9bd1cc3e1d8dcb6cba27de3ef24021e8d084e72c2751e36e380d930a0",
+    "avg_time_on_flyer_per_user_hours": 0.74
+  },
+  {
+    "user_id": "986954873eb6d2af7482444d1d50387fd8eab6ce17e908b5977140569a6b82e0",
+    "avg_time_on_flyer_per_user_hours": 0.05
+  },
+  {
+    "user_id": "6f84ddac8a4e2d982dadc4a1352f72628820679647464af1962308e220b75160",
+    "avg_time_on_flyer_per_user_hours": 3.41
+  },
+  {
+    "user_id": "5f6dd24a680bc475e26cdf2a1871722e240bf415588083e8337da97610bd7d64",
+    "avg_time_on_flyer_per_user_hours": 0.3
+  },
+  {
+    "user_id": "df193e2ccc94f2381cb94e05ac42474349741cda065ced52d160eb07027ee82e",
+    "avg_time_on_flyer_per_user_hours": 4.13
+  },
+  {
+    "user_id": "295d5d570fc48c9cc6c4aeb1cfe7c3a38ac802012b814340885b4b9034c73d19",
+    "avg_time_on_flyer_per_user_hours": 0.15
+  },
+  {
+    "user_id": "87c2f342e40511b1ebc095de5dbd12f879d0dc52be7323d4704b73ff60f6183d",
+    "avg_time_on_flyer_per_user_hours": 0.63
+  },
+  {
+    "user_id": "86c25ad422eeb4291b0d64cf999825e265b73813023ca9aa78bbaa5cdb46a9cb",
+    "avg_time_on_flyer_per_user_hours": 3.4
+  },
+  {
+    "user_id": "acf02e94085df3fa798948af8a3d4f706504ce511b3ab4bed8e1aa81ab9af620",
+    "avg_time_on_flyer_per_user_hours": 6.94
+  },
+  {
+    "user_id": "faaa186511a7fed82c031c9b66599bf50eb764f44957fe15a75dd39e4c7ab9ee",
+    "avg_time_on_flyer_per_user_hours": 2.76
+  },
+  {
+    "user_id": "9020c54ead2ac5ffa5904108c3666d03fddfd19d9e7442168768e26487c13adc",
+    "avg_time_on_flyer_per_user_hours": 4.59
+  },
+  {
+    "user_id": "af00005a9a183acb1ad3204f3d6a49f8ad5b901c943193d5133f89aba2cba2e2",
+    "avg_time_on_flyer_per_user_hours": 1.73
+  },
+  {
+    "user_id": "754160b2e1514bc6aa42d400828af4f1f33572cc520a3a454c388207eaa7cdf8",
+    "avg_time_on_flyer_per_user_hours": 0.01
+  },
+  {
+    "user_id": "e00f40eed8cd8eb5f93f929fa0d9e8c9e6f2fa23bccd08e065c9e2de1758a2a9",
+    "avg_time_on_flyer_per_user_hours": 0.15
+  },
+  {
+    "user_id": "7a8e0c9da198174eb463306b2104cfd465c7bbfed1534949a319708872e14702",
+    "avg_time_on_flyer_per_user_hours": 4.07
+  },
+  {
+    "user_id": "3e2c0fab8a4e9ea274e5bcb6b2fa9dd610c1d7f3b4ecd5bb979d65f81d37e7fa",
+    "avg_time_on_flyer_per_user_hours": 0.17
+  },
+  {
+    "user_id": "10e77342a277861ba7cb976eae7c0ed57c40802294df6688a05a5330cf9b7f74",
+    "avg_time_on_flyer_per_user_hours": 4.43
+  },
+  {
+    "user_id": "abdec911ebd02701ae2f7543c4dd50111a838ed8a82ddef45d7f6a4d4a7928d1",
+    "avg_time_on_flyer_per_user_hours": 5.15
+  },
+  {
+    "user_id": "932737d82ee19bc5440edfb5e0a3585bf02f27c2d4dc70f078177cd6678d1144",
+    "avg_time_on_flyer_per_user_hours": 3.56
+  },
+  {
+    "user_id": "831360bcaf65f08f8ebac5f2e949628ee3f4d8e7dd7ec4fdb84363c9ec674250",
+    "avg_time_on_flyer_per_user_hours": 0.09
+  },
+  {
+    "user_id": "c875bb0229d7a8c1093572df01c9c49d4e00eb887596826e88c6b1f4afaa607a",
+    "avg_time_on_flyer_per_user_hours": 6.92
+  },
+  {
+    "user_id": "c39d861537c464c5c666a2d3557b60741d333c5f66e265c379ea0db1187af4c5",
+    "avg_time_on_flyer_per_user_hours": 1.75
+  },
+  {
+    "user_id": "4e0367fcdc657c436c4d5922ff800dc782bc5018d477073f6018b5dee68e9a8b",
+    "avg_time_on_flyer_per_user_hours": 0.8
+  },
+  {
+    "user_id": "366a50d20f5afdb90514c1ff50c0dfcf158007b9e2e582d7a4a8e408b9fd4bd2",
+    "avg_time_on_flyer_per_user_hours": 0.12
+  },
+  {
+    "user_id": "efba6bea28a09d35dcd75bdfa677569d824b43d5e04caf32feb17359b0b67392",
+    "avg_time_on_flyer_per_user_hours": 8.02
+  },
+  {
+    "user_id": "bfc2d375be4873d943abef4745ffb19aa50b2de140bb8419b9d38929149fa387",
+    "avg_time_on_flyer_per_user_hours": 2.35
+  },
+  {
+    "user_id": "61f7fd48e706c0d5c774ba742535fc94729f6f295e8c155c416b71b4c2cbe154",
+    "avg_time_on_flyer_per_user_hours": 1.48
+  },
+  {
+    "user_id": "6632500673f6453e7e55ab69f82809225b75907ae014010f793dbef38daf2c11",
+    "avg_time_on_flyer_per_user_hours": 1.58
+  },
+  {
+    "user_id": "fd2341ec3c2439f9417996a4853e998a75f028c37e8c8f24d8c2d0b7a41c25fa",
+    "avg_time_on_flyer_per_user_hours": 7.62
+  },
+  {
+    "user_id": "7eca0961e6dcf868dbd96165bbb41687e8ff9cd6799bf127c1ed78a7f7e07712",
+    "avg_time_on_flyer_per_user_hours": 0.28
+  },
+  {
+    "user_id": "0e4ea74b743be1884009be137e688458668940cda57b4b36e6635f6b0dcecf71",
+    "avg_time_on_flyer_per_user_hours": 1.45
+  },
+  {
+    "user_id": "d1cdc7846281e396bfae3ce66dc54ec3642518ec27133eee511a06ca01517f28",
+    "avg_time_on_flyer_per_user_hours": 0.07
+  },
+  {
+    "user_id": "0f153925256d3c7d4c86ea47b8b2d3d9bf2dd23bac74c796e420c607514c1ff5",
+    "avg_time_on_flyer_per_user_hours": 4.31
+  },
+  {
+    "user_id": "a43353269e4084a38e5e536f344ba9e6399e2e3a32d275d8713f33ddef6cd68e",
+    "avg_time_on_flyer_per_user_hours": 0.18
+  },
+  {
+    "user_id": "f18bfcca5e07c4054e1e89baebd4cc24293480580a70acbab228fc7a190a7c2e",
+    "avg_time_on_flyer_per_user_hours": 0.1
+  },
+  {
+    "user_id": "2762440ed78e8fdee686f6fa8cd5390e1011452207f333ba9b0e8fa01b7d8a83",
+    "avg_time_on_flyer_per_user_hours": 2.91
+  },
+  {
+    "user_id": "4d9594f4645540ac867343f08ac9451851cee7d87742ebc8146d4b36ef33975d",
+    "avg_time_on_flyer_per_user_hours": 1.92
+  },
+  {
+    "user_id": "b4358b0a129772448edd9dacb692c9f78af133802f9b6a1a49d9014a5f3af707",
+    "avg_time_on_flyer_per_user_hours": 0.07
+  },
+  {
+    "user_id": "1c1231e7a41a1bee17dd8e8111ebaef941525995f330199844fd9a0293edf9aa",
+    "avg_time_on_flyer_per_user_hours": 0.08
+  },
+  {
+    "user_id": "29afa4203fee96c841c6b23bc337feaa4d149c12c1fa779bc6b66cc7b0daafce",
+    "avg_time_on_flyer_per_user_hours": 0.28
+  },
+  {
+    "user_id": "8e2a9919c4f0e66dd13b4d0e63306d9087a5e43e1a59ad90426752704cda08ea",
+    "avg_time_on_flyer_per_user_hours": 0.49
+  },
+  {
+    "user_id": "7f4315af5dc2ab010740690d8be5a06700d0902eddfcd5113e74f32602106ced",
+    "avg_time_on_flyer_per_user_hours": 4.35
+  },
+  {
+    "user_id": "e44d741523cb9822e780d6569d2107f7af8b12b123a4feded92a0d8c4aabf3a6",
+    "avg_time_on_flyer_per_user_hours": 0.47
+  },
+  {
+    "user_id": "cbfc516f83a6a127eceb0f68056cddb4b06906dd0e5600af90ddb890ba95d963",
+    "avg_time_on_flyer_per_user_hours": 0.01
+  },
+  {
+    "user_id": "89c62dbce370af53e3107870209e144f02ee67a59022a35d2d1677450553b25b",
+    "avg_time_on_flyer_per_user_hours": 4.73
+  },
+  {
+    "user_id": "67b384d3a3f8678e191e034d45f57a0af280d11365fcefaa5721584825f20965",
+    "avg_time_on_flyer_per_user_hours": 0.02
+  },
+  {
+    "user_id": "1616acee3221dc34a72c45b49236814803dcf3cb22f6c40a69b61ec74904cec6",
+    "avg_time_on_flyer_per_user_hours": 0.18
+  },
+  {
+    "user_id": "598e25b4d636e88995ae54ed27da92298945b002859c83cd09ca17614159791a",
+    "avg_time_on_flyer_per_user_hours": 0.51
+  },
+  {
+    "user_id": "9fc52226c02bb49e3805509234298f1017e48c95282f8900031a2f52b71d4399",
+    "avg_time_on_flyer_per_user_hours": 0.32
+  },
+  {
+    "user_id": "d8913135bdbe6f66014344634eeab92111adf864fb526e64205701431d03a5a8",
+    "avg_time_on_flyer_per_user_hours": 0.01
+  },
+  {
+    "user_id": "cffcc59959e18331899225137657cb6bfedec918696aeb64d0f2ab53b3c31bfb",
+    "avg_time_on_flyer_per_user_hours": 0.58
+  },
+  {
+    "user_id": "0655466fd378fe385057e604caa841586385e597ffc4476c55f8a5ab1420ee23",
+    "avg_time_on_flyer_per_user_hours": 0.01
+  },
+  {
+    "user_id": "d1a900508ce1fbb117b6c9c5fcdf7c5733f0cd8629dbd37e7772d9abef6fc82a",
+    "avg_time_on_flyer_per_user_hours": 0.39
+  },
+  {
+    "user_id": "4a426f51ed2fb6d0cb74809d1238060a0c225364ac9ec8542b813d4303eff5e9",
+    "avg_time_on_flyer_per_user_hours": 0.01
+  },
+  {
+    "user_id": "87d4427f66eba56539e97e2dd781db3b03ff60f9761a3ef5200e0388c43d1e04",
+    "avg_time_on_flyer_per_user_hours": 6.78
+  },
+  {
+    "user_id": "754c133d34bc5ab6ee73609e240e04ba0a47b892fde852566ab64d30112f8ad9",
+    "avg_time_on_flyer_per_user_hours": 2.28
+  },
+  {
+    "user_id": "e218a3a97a9fd63a1aaa748107e2a2377cf2950c6de4cd04e04dd25c0668657d",
+    "avg_time_on_flyer_per_user_hours": 4.75
+  },
+  {
+    "user_id": "678b24e5b1c525b8818f5f8c90abf44454f7cf861e895f0ab32396b077f596b3",
+    "avg_time_on_flyer_per_user_hours": 1.04
+  },
+  {
+    "user_id": "36a4cf7a9480bc7e843f52085ebc150043c711a22b99bcdbf1942ad2af7e52ae",
+    "avg_time_on_flyer_per_user_hours": 1.91
+  },
+  {
+    "user_id": "863a47d6c305dee1df0e2b4d0125fe0e50ed137200583ac8889af79e6b336ebd",
+    "avg_time_on_flyer_per_user_hours": 2.4
+  },
+  {
+    "user_id": "7cde03b502c85f46047a0b78a342093c85c67a08e4eae38cb933057640f11ac3",
+    "avg_time_on_flyer_per_user_hours": 0.05
+  },
+  {
+    "user_id": "0017345b89958a1d8cae79020dbbf6e2f687124ae8bf937fa6ed729e66a13f91",
+    "avg_time_on_flyer_per_user_hours": 0.14
+  },
+  {
+    "user_id": "f9b8dac9a8d25836cea486e6895396623511362af5285e9d84d88dfdfa06a05f",
+    "avg_time_on_flyer_per_user_hours": 0.32
+  },
+  {
+    "user_id": "9ea672779feb1e088caa593b61ec51440c1d8694e1bf3dfe95554f7c9698c47e",
+    "avg_time_on_flyer_per_user_hours": 3.52
+  },
+  {
+    "user_id": "406201077ae28b821de968b886f57ca78a2090d7b27272b3eb1c5fa322ca1785",
+    "avg_time_on_flyer_per_user_hours": 0.61
+  },
+  {
+    "user_id": "97e27e751eb093d1650f1c88be27c2e1642fed6dfe66016b82740d658fb95a18",
+    "avg_time_on_flyer_per_user_hours": 7.01
+  },
+  {
+    "user_id": "28cd1c969f52dc4ebdcd702e0b707dba4804aec11355a93b339308771a25e6bc",
+    "avg_time_on_flyer_per_user_hours": 2.75
+  },
+  {
+    "user_id": "1606bb3a88d3ae9d76adfa0d7a0c9b42d93bfd72fda4b8333c49f8c35e519b45",
+    "avg_time_on_flyer_per_user_hours": 1.02
+  },
+  {
+    "user_id": "365a011424432621de0e828ad2cccb998dad54d9ba1f73dae3e8f5d773cb514a",
+    "avg_time_on_flyer_per_user_hours": 0.0
+  },
+  {
+    "user_id": "e915b31b864e45d04b721d6eccee717c7aca1d761eed6496323f9e20058e8967",
+    "avg_time_on_flyer_per_user_hours": 0.16
+  }
+]
