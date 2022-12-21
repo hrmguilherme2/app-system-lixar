@@ -1,0 +1,34 @@
+version: 1.5
+sparkVersion: 3.1.1
+image:  hrmguilherme/api-processor:4.0.0
+jar: local:///opt/spark/work-dir/spark-redis-demo-0.0.1-SNAPSHOT.jar
+mainClass: com.spark.redis.demo.Main
+fileDependencies: [ local:///opt/spark/work-dir/bigquery.json,local:///opt/spark/jars/spark-bigquery-with-dependencies_2.12-0.25.2.jar]
+environment: kind
+serviceAccount: spark
+volumes:
+  - name: config-vol
+    configMap:
+      name: dummy-cm
+driver:
+  cores: 1
+  memory: "1096m"
+  labels:
+    version: 3.1.1
+executor:
+  cores: 1
+  instances: 1
+  memory: "1096m"
+  labels:
+    version: 3.1.1
+hadoopConf:
+  "google.cloud.auth.service.account.enable": true
+  "spark.redis.host": 10.107.30.251
+sparkConf:
+  "spark.hadoop.fs.AbstractFileSystem.gs.impl": com.google.cloud.hadoop.fs.gcs.GoogleHadoopFS
+  "fs.gs.project.id": spark
+  "fs.gs.system.bucket": spark
+  "spark.redis.host": 10.107.30.251
+hostNetwork: false
+imagePullPolicy: Always
+userId: 0
